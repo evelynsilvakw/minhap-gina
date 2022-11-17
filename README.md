@@ -1,13 +1,13 @@
 # minhapágina 
-BOPE 
+<h1>SOBRE O BOPE</h1> 
 
-O Batalhão de Operações Especiais - BOPE - é um grupo de elite da Polícia Militar do Paraná, com policiais altamente capacitados para atuar em situações específicas e no controle de distúrbios civis. O Bope é composto por subunidades. 
+<p>O Batalhão de Operações Especiais - BOPE - é um grupo de elite da Polícia Militar do Paraná, com policiais altamente capacitados para atuar em situações específicas e no controle de distúrbios civis. O Bope é composto por subunidades. </p>
 
-Criado em 1988, o Batalhão Especial é uma referência no combate e repressão aos crimes de maior potencial ofensivo – roubo a bancos, tráfico de drogas, assaltos com reféns, e ações com uso de artefato explosivo, entre outros.
-Atualmente comandado pelo tenente-coronel Ronaldo Roque da Silva, um oficial que há 12 anos se dedica a essa unidade, o Bope tem um efetivo de 120 policiais.
+<p>Criado em 1988, o Batalhão Especial é uma referência no combate e repressão aos crimes de maior potencial ofensivo – roubo a bancos, tráfico de drogas, assaltos com reféns, e ações com uso de artefato explosivo, entre outros.
+Atualmente comandado pelo tenente-coronel Ronaldo Roque da Silva, um oficial que há 12 anos se dedica a essa unidade, o Bope tem um efetivo de 120 policiais.</p>
 
-"Os policiais do BOPE utilizam veículos blindados, os chamados “caveirões”, para realizar suas operações, em especial as que ocorrem dentro de favelas. Atualmente o BOPE é composto por 400 homens, está previsto o ingresso de mulheres apenas em 2008."
-"O BOPE é classificado como a melhor equipe de combate urbano do mundo, um integrante do FBI que passou cinco semanas no Batalhão de Operações Especiais do Estado do Rio de Janeiro disse que a tropa de soldados norte-americanos que se encontra no Iraque deveria efetuar treinamento junto com o BOPE."
+<p>"Os policiais do BOPE utilizam veículos blindados, os chamados “caveirões”, para realizar suas operações, em especial as que ocorrem dentro de favelas. Atualmente o BOPE é composto por 400 homens, está previsto o ingresso de mulheres apenas em 2008."
+"O BOPE é classificado como a melhor equipe de combate urbano do mundo, um integrante do FBI que passou cinco semanas no Batalhão de Operações Especiais do Estado do Rio de Janeiro disse que a tropa de soldados norte-americanos que se encontra no Iraque deveria efetuar treinamento junto com o BOPE."</p>
 
 "Os Mandamentos do BOPE"
 
