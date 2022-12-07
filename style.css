@@ -1,0 +1,37 @@
+body {
+  background:  #9be7d7
+}
+
+#banner1 {
+    width: 100%;
+}
+
+#banner2 {
+    width: 100%;
+}
+
+#banner3 {
+    width: 100%;
+}
+
+h1 {
+  text-align: center
+}
+
+p {
+  text-align: center;
+}
+
+#A música Gospel {
+     color: blue;
+     text-align:left;
+}
+
+#Gospel {
+  color: rbg(158,108,15)
+  text-align: right;
+}
+
+#Em inglês {
+   color: red;
+}
